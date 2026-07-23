@@ -51,4 +51,4 @@ Some factual material (dates, grosses, credits, award records) was verified agai
 
 ## Disclaimer
 
-This is an independent, non-commercial fan project. It is **not affiliated with, authorized by, or endorsed by** Paramount Pictures, the estate of Mario Puzo, Francis Ford Coppola, or any rights holder. *The Godfather* and related marks belong to their respective owners. No screenplay text, novel text, or copyrighted imagery is reproduced here beyond brief quotation for commentary and criticism.
+This is an independent fan project. It is **not affiliated with, authorized by, or endorsed by** Paramount Pictures, the estate of Mario Puzo, Francis Ford Coppola, or any rights holder. *The Godfather* and related marks belong to their respective owners. No screenplay text, novel text, or copyrighted imagery is reproduced here beyond brief quotation for commentary and criticism. The site carries affiliate links and accepts contributions to cover costs — see [Support the Project](https://joedef.github.io/godfather-wiki/support/).
