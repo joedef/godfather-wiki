@@ -1,3 +1,7 @@
+---
+description: "Clemenza and Tessio: the two original capos, the cannoli line that was improvised on set, and what thirty years of loyalty is worth."
+---
+
 # Clemenza & Tessio
 
 The two original caporegimes — Vito's partners from the dress-stealing days, and the two men who prove that thirty years of loyalty buys you nothing at all.

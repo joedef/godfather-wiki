@@ -1,3 +1,7 @@
+---
+description: "Kay Adams-Corleone: the audience's proxy, the three doors closed on her, and the abortion that is the only successful act of resistance against Michael."
+---
+
 # Kay Adams-Corleone
 
 <div class="infobox" markdown>

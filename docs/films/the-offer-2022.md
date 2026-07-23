@@ -1,3 +1,7 @@
+---
+description: "The Offer (2022): the Paramount+ series about producing The Godfather, its cast, its reception, and how accurate it actually is."
+---
+
 # The Offer (2022)
 
 <div class="infobox" markdown>

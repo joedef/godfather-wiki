@@ -1,3 +1,7 @@
+---
+description: "Carlo Rizzi: the brother-in-law who set Sonny up, and the one killing in The Godfather the audience is invited to enjoy."
+---
+
 # Carlo Rizzi
 
 <div class="infobox" markdown>

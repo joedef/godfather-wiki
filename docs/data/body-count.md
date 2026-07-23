@@ -1,3 +1,7 @@
+---
+description: "Every death in The Godfather trilogy: who ordered it, who carried it out, and the ones people consistently miscount."
+---
+
 # Body Count
 
 Every named death across the three films, with who ordered it and who carried it out.

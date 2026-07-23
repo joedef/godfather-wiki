@@ -1,3 +1,7 @@
+---
+description: "Every Godfather character: the Corleone family, the organization, and the opposition, with a quick reference table of who kills whom."
+---
+
 # Characters
 
 <p class="epigraph">A man who doesn't spend time with his family can never be a real man.

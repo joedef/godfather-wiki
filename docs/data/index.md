@@ -1,3 +1,7 @@
+---
+description: "The Godfather by the numbers: awards, box office, timeline, body count, quotes, and charts, with the caveats each figure deserves."
+---
+
 # Data
 
 Compiled from the films themselves and cross-checked against public records. Where sources disagree — and for box office they disagree constantly — the range is given rather than a fake-precise number.

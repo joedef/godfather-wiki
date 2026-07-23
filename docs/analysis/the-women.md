@@ -1,3 +1,7 @@
+---
+description: "Kay, Connie, Carmela, Apollonia, and Mary: what The Godfather lets its women do, what it doesn't, and the honest criticism of both."
+---
+
 # The Women
 
 <p class="epigraph">Don't ask me about my business, Kay.

@@ -1,3 +1,7 @@
+---
+description: "The Godfather filming locations: the Staten Island compound, the Bronx restaurant, Savoca and Forza d'Agro in Sicily, and what still stands."
+---
+
 # Locations
 
 Roughly **90% of *The Godfather* was shot in and around New York City** — a reported 120+ distinct locations — with the remainder in California and Sicily. This page covers the significant ones and what's still there.

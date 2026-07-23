@@ -1,3 +1,7 @@
+---
+description: "Nino Rota: Fellini's composer, the solo trumpet theme, the Academy nomination that was rescinded, and the Oscar he won for Part II."
+---
+
 # Nino Rota
 
 <div class="infobox" markdown>

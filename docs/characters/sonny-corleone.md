@@ -1,3 +1,7 @@
+---
+description: "Sonny Corleone: the most capable Corleone and the least suited to running the family, and the tollbooth sequence that killed him."
+---
+
 # Santino "Sonny" Corleone
 
 <div class="infobox" markdown>

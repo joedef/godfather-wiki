@@ -1,3 +1,7 @@
+---
+description: "Puzo's The Sicilian (1984): Michael Corleone's Sicilian exile wrapped around the true story of the bandit Salvatore Giuliano."
+---
+
 # The Sicilian (1984)
 
 <div class="infobox" markdown>

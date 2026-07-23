@@ -1,3 +1,7 @@
+---
+description: "John Cazale: five films, all five nominated for Best Picture, dead at 42. The actor who made Fredo Corleone unbearable to watch."
+---
+
 # John Cazale
 
 <div class="infobox" markdown>

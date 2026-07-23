@@ -1,3 +1,7 @@
+---
+description: "Nino Rota's Godfather score: the solo trumpet, the rescinded Oscar nomination, and the trilogy's most important choice, where there is no music at all."
+---
+
 # Music & Score
 
 <p class="epigraph">One trumpet. No accompaniment. That is the whole family, in eight bars.

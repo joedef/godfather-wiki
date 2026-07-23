@@ -1,3 +1,7 @@
+---
+description: "The Godfather canon mapped across five tiers: four film cuts, five novels, three chronological recuts, and the contradictions between them."
+---
+
 # Continuity
 
 There is no single *Godfather* canon. There is a novel, four cuts of three films, two chronological reassemblies, three continuation novels, a novel-that-isn't-quite-a-sequel, and a video game — and they contradict each other on matters as basic as who dies and when.

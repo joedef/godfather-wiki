@@ -1,3 +1,7 @@
+---
+description: "Gordon Willis on lighting The Godfather, plus the best video essays on the trilogy's cinematography and composition."
+---
+
 # Craft & Video Essays
 
 How the films were actually made, and the best analytical breakdowns available. See [Video Library](index.md) for the link-rot caveat.

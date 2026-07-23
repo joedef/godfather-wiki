@@ -1,3 +1,7 @@
+---
+description: "Michael Corleone: the war hero who was going to be a senator. His full arc across three films, and where the man actually stops existing."
+---
+
 # Michael Corleone
 
 <div class="infobox" markdown>

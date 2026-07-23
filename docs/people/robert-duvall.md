@@ -1,3 +1,7 @@
+---
+description: "Robert Duvall: Coppola's only choice for Tom Hagen, and the salary dispute that wrote the character out of Part III."
+---
+
 # Robert Duvall
 
 <div class="infobox" markdown>

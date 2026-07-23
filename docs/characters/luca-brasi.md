@@ -1,3 +1,7 @@
+---
+description: "Luca Brasi: the most feared man in the Corleone organization, dead within forty minutes, played by a real Colombo family associate."
+---
+
 # Luca Brasi
 
 <div class="infobox" markdown>

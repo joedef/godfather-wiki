@@ -1,3 +1,7 @@
+---
+description: "Vito Corleone: from orphaned Sicilian boy to Don, and the only character in cinema to win two Academy Awards for two different actors."
+---
+
 # Vito Corleone
 
 <div class="infobox" markdown>

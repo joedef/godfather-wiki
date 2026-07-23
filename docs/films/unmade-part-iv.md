@@ -1,3 +1,7 @@
+---
+description: "The Godfather Part IV that never happened: De Niro as 1930s Vito, DiCaprio as young Sonny, and how Puzo's material became a novel instead."
+---
+
 # The Unmade Part IV
 
 There was very nearly a fourth film. It had a structure, a star, a shape, and — depending on whose account you take — a script. What it did not have, after July 2, 1999, was Mario Puzo.

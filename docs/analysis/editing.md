@@ -1,3 +1,7 @@
+---
+description: "Editing The Godfather: the restaurant hold, the subway, the tollbooth, and what the 2020 Coda re-edit proves about editing as authorship."
+---
+
 # Editing
 
 Three films, seven editors, three Academy nominations, no wins. The trilogy's editing is famous for one sequence and interesting for the reason that sequence works — which is that everything around it is so patient.

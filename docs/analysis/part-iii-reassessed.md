@@ -1,3 +1,7 @@
+---
+description: "The case for The Godfather Part III: what the reviews actually said, what the film does that the first two can't, and why to watch Coda instead."
+---
+
 # Part III Reassessed
 
 <p class="epigraph">Your sins are terrible, and it is just that you suffer. Your life could be redeemed, but I know you don't believe that. You will not change.

@@ -1,3 +1,7 @@
+---
+description: "The Godfather supporting cast: Castellano, Vigoda, Hayden, Conte, Rocco, Strasberg, Gazzo, Wallach, and the character actors who built the world."
+---
+
 # Supporting Cast
 
 The character actors who make the trilogy feel like a world rather than a story.

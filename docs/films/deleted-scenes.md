@@ -1,3 +1,7 @@
+---
+description: "The hour of footage cut from the first two Godfather films, including Genco Abbandando's deathbed scene, and where to find the restored versions."
+---
+
 # Deleted & Restored Scenes
 
 Roughly an hour of material was cut from the first two films and later restored, first for *[The Godfather Saga](recuts-and-restorations.md#the-godfather-saga-1977)* in 1977 and then in fuller form across the 1981, 1992, 2001, and 2008 home releases.

@@ -1,3 +1,7 @@
+---
+description: "Tom Hagen: the German-Irish orphan raised as a Corleone, made consigliere, and never once considered for the succession."
+---
+
 # Tom Hagen
 
 <div class="infobox" markdown>

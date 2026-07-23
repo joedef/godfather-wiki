@@ -1,3 +1,7 @@
+---
+description: "Moe Greene: the man who built Las Vegas, shot through the eye, and modeled directly on Bugsy Siegel."
+---
+
 # Moe Greene
 
 <div class="infobox" markdown>

@@ -1,3 +1,7 @@
+---
+description: "Mary Corleone: the price made explicit, the silent scream, and the disproportionate treatment of Sofia Coppola's performance."
+---
+
 # Mary Corleone
 
 <div class="infobox" markdown>

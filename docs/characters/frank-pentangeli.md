@@ -1,3 +1,7 @@
+---
+description: "Frank Pentangeli: the old-country capo created because Richard Castellano didn't return, and the Senate hearing modeled on Joe Valachi."
+---
+
 # Frank Pentangeli
 
 <div class="infobox" markdown>

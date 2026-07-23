@@ -1,3 +1,7 @@
+---
+description: "Francis Ford Coppola: hired at 31 because he was cheap, five Academy Awards, and a sixty-year pattern of betting everything and losing it."
+---
+
 # Francis Ford Coppola
 
 <div class="infobox" markdown>

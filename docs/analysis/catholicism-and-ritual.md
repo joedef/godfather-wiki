@@ -1,3 +1,7 @@
+---
+description: "Four sacraments structure The Godfather, and every one is used as cover for a murder. Plus the confession scene and what absolution actually costs."
+---
+
 # Catholicism & Ritual
 
 <p class="epigraph">Do you renounce Satan, and all his works, and all his empty promises? — I do renounce him.

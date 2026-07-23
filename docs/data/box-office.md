@@ -1,3 +1,7 @@
+---
+description: "The Godfather box office: budgets, grosses, and the reason no precise number exists for the 1972 film."
+---
+
 # Box Office
 
 <p class="epigraph">Any single number you see for The Godfather's gross is somebody's estimate.

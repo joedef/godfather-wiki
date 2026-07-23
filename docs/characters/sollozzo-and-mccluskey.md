@@ -1,3 +1,7 @@
+---
+description: "Virgil Sollozzo and Captain McCluskey: Michael Corleone's first two murders, and the restaurant scene that saved two careers."
+---
+
 # Sollozzo & McCluskey
 
 Michael Corleone's first two murders, and the pair that turns a family drama into a war.

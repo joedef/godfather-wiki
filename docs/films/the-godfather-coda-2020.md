@@ -1,3 +1,7 @@
+---
+description: "The Godfather Coda (2020): exactly what Coppola changed in his re-edit of Part III, and why the same footage scored nineteen points higher."
+---
+
 # The Godfather Coda: The Death of Michael Corleone (2020)
 
 <div class="infobox" markdown>

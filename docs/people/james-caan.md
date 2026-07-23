@@ -1,3 +1,7 @@
+---
+description: "James Caan: took Sonny over Michael, improvised half the performance, and spent fifty years explaining that he isn't Italian."
+---
+
 # James Caan
 
 <div class="infobox" markdown>

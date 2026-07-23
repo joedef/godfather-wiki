@@ -1,3 +1,7 @@
+---
+description: "Godfather reference: filming locations, Mafia glossary, real-world history, cultural legacy, video games, and sources."
+---
+
 # Reference
 
 Where things were shot, what the words mean, what actually happened, and where all of this came from.

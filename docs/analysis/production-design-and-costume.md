@@ -1,3 +1,7 @@
+---
+description: "Dean Tavoularis's Godfather design: the two Corleone houses, 1917 Little Italy, and what the tailoring tells you about who is winning."
+---
+
 # Production Design & Costume
 
 [Dean Tavoularis](../people/the-crew.md) designed all three films and won an Academy Award for the second. His work is the trilogy's least-discussed authorship, because good production design is built not to be noticed.

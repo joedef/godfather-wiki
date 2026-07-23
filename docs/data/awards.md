@@ -1,3 +1,7 @@
+---
+description: "Complete Godfather awards tables: 28 Oscar nominations, 9 wins, one declined by Brando and one rescinded from Nino Rota."
+---
+
 # Awards
 
 Twenty-eight competitive Academy Award nominations across three films, nine wins, one declined and one rescinded.

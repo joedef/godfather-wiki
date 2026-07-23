@@ -1,3 +1,7 @@
+---
+description: "The Godfather book versus film: what Coppola cut from Puzo, what he moved into Part II, and the best scene in the film, which Robert Towne wrote uncredited."
+---
+
 # Book vs. Film
 
 What [Coppola](../people/francis-ford-coppola.md) kept, cut, moved, and invented — and why the adaptation is so much better than its source.

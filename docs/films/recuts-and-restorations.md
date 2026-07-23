@@ -1,3 +1,7 @@
+---
+description: "Every version of The Godfather: the 1977 Saga, the 1981 Epic, the 1992 Trilogy, the 2008 Coppola Restoration, and the 2022 4K remasters, plus which to watch."
+---
+
 # Recuts & Restorations
 
 There are more versions of *The Godfather* than of almost any comparable American film: four theatrical cuts, three chronological reassemblies, two major restorations, and a long tail of home video transfers of wildly varying quality. This page catalogues them and tells you which to watch.

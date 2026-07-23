@@ -1,3 +1,7 @@
+---
+description: "The Godfather cast and crew: biographies, the complete Oscar ledger for the trilogy, and who from the 1972 production is still living."
+---
+
 # People
 
 The cast and crew — who they were before, what they did here, and what it cost or bought them.

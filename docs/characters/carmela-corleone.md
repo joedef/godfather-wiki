@@ -1,3 +1,7 @@
+---
+description: "Carmela Corleone: Vito's wife, who says almost nothing across two films and whose lifespan Michael treats as a scheduling constraint."
+---
+
 # Carmela Corleone
 
 <div class="infobox" markdown>

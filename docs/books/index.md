@@ -1,3 +1,7 @@
+---
+description: "The five Godfather novels by Puzo, Winegardner, and Falco, what each covers, reading order, and the Balzac epigraph that Balzac never wrote."
+---
+
 # The Books
 
 <p class="epigraph">Behind every great fortune there is a crime.

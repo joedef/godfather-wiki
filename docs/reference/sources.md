@@ -1,3 +1,7 @@
+---
+description: "Sources for The Godfather research, ranked by reliability, with notes on which memoirs to distrust and why the production anecdotes conflict."
+---
+
 # Sources & Further Reading
 
 What this wiki was built from, roughly in order of how much weight it should carry.

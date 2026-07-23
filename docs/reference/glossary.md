@@ -1,3 +1,7 @@
+---
+description: "Godfather glossary: consigliere, caporegime, omerta, vendetta, cent'anni, going to the mattresses, and the terms Puzo invented."
+---
+
 # Glossary
 
 Sicilian, Italian-American, and Mafia terms as the trilogy uses them — with notes on which ones Puzo invented.

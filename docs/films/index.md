@@ -1,3 +1,7 @@
+---
+description: "All four Godfather films compared: release dates, runtimes, budgets, box office, and Oscars, plus every recut, restoration, and spinoff."
+---
+
 # The Films
 
 Four features carrying the Corleone story, made across forty-eight years by the same director, with the same star, and — for the first three — the same cinematographer.

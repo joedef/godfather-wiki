@@ -1,3 +1,7 @@
+---
+description: "The real history behind The Godfather: Lansky, Siegel, Costello, Valachi, Colombo, Calvi, and Andreotti, marked documented, inferred, or disputed."
+---
+
 # Real-World Mafia
 
 What's documented, what's inferred, and what Puzo made up.

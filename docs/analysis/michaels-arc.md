@@ -1,3 +1,7 @@
+---
+description: "Michael Corleone's arc traced through twelve moments across three films, and the case that the point of no return is the kiss, not the restaurant."
+---
+
 # Michael's Arc
 
 <p class="epigraph">That's my family, Kay. It's not me.

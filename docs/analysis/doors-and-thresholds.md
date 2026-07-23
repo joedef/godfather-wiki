@@ -1,3 +1,7 @@
+---
+description: "The Godfather's visual motifs: closed doors, frames within frames, hands, chairs, and the disputed truth about the oranges."
+---
+
 # Doors, Thresholds & Frames
 
 The trilogy's visual motifs. Some are unmistakably deliberate. One is famously disputed. This page distinguishes.

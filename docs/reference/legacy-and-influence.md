@@ -1,3 +1,7 @@
+---
+description: "The Godfather's legacy: what it did to film, to The Sopranos, to the English language, and to the actual Mafia, which began imitating it."
+---
+
 # Legacy & Influence
 
 What the trilogy did to films, to television, to the American language, and — genuinely — to organized crime.

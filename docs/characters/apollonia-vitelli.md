@@ -1,3 +1,7 @@
+---
+description: "Apollonia Vitelli: Michael's first wife, married and killed inside twenty minutes of screen time, and the pivot of his entire arc."
+---
+
 # Apollonia Vitelli-Corleone
 
 <div class="infobox" markdown>

@@ -1,3 +1,7 @@
+---
+description: "Curated Godfather video: scene clips, trailers, cast and crew interviews, and craft breakdowns, embedded and annotated."
+---
+
 # Video Library
 
 A curated set of embedded clips, trailers, and interviews. Everything here is a public YouTube upload, embedded rather than rehosted; nothing is mirrored or redistributed by this project.

@@ -1,3 +1,7 @@
+---
+description: "Sicily and America in The Godfather: the founding murder of 1901, the assimilation ladder, and why 'I believe in America' opens the trilogy."
+---
+
 # Sicily & America
 
 Two countries, two palettes, and an immigration story that runs in both directions.

@@ -1,3 +1,7 @@
+---
+description: "The Godfather video games: EA's 2006 and 2009 titles, Marlon Brando's final recorded performance, and Coppola's public objection."
+---
+
 # Video Games
 
 Two games, four million units, one final Marlon Brando performance, and a director who publicly objected to the whole thing.

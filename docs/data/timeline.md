@@ -1,3 +1,7 @@
+---
+description: "The Godfather timeline, 1901 to 1997: every dated event in the fiction alongside the real-world production history."
+---
+
 # Timeline
 
 The Corleone story, 1901–1997, plus the real-world production history alongside it.

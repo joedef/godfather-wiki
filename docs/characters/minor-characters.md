@@ -1,3 +1,7 @@
+---
+description: "Neri, Rocco, Bonasera, Genco, Tommasino, Fanucci, and everyone else in The Godfather, plus the eight Coppolas who appear on screen."
+---
+
 # Minor Characters
 
 Everyone else worth knowing, alphabetically by first appearance within each group.

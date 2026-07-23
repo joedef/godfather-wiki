@@ -1,3 +1,7 @@
+---
+description: "Which version of The Godfather to watch and in what order, whether to read Puzo's novel, and why the chronological recuts are the wrong place to start."
+---
+
 # Start Here
 
 Three questions people arrive with. Here are the answers.

@@ -1,3 +1,7 @@
+---
+description: "The Godfather (1972): full cast and crew, plot breakdown, and the production war behind it, from Brando's screen test to the mob negotiation that changed the script."
+---
+
 # The Godfather (1972)
 
 <div class="infobox" markdown>

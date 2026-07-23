@@ -1,3 +1,7 @@
+---
+description: "Robert De Niro: cast as Paulie Gatto in the first film, left, and returned to win an Oscar playing young Vito Corleone in Sicilian."
+---
+
 # Robert De Niro
 
 <div class="infobox" markdown>

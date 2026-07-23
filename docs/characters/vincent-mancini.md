@@ -1,3 +1,7 @@
+---
+description: "Vincent Mancini-Corleone: Sonny's illegitimate son, Andy Garcia's Oscar-nominated performance, and the succession that hands the family back to its worst instincts."
+---
+
 # Vincent Mancini-Corleone
 
 <div class="infobox" markdown>

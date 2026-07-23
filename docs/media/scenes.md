@@ -1,3 +1,7 @@
+---
+description: "The Godfather scenes and trailers on video: the offer, the baptism sequence, the 50th anniversary trailer, and what to watch for in each."
+---
+
 # Scenes & Trailers
 
 Clips and trailers, with notes on what to watch for. See [Video Library](index.md) for the caveats about link rot.

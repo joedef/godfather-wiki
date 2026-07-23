@@ -1,3 +1,7 @@
+---
+description: "The Godfather Notebook: Coppola cut Puzo's novel apart with a razor blade and annotated every scene. The most instructive document in film adaptation."
+---
+
 # The Godfather Notebook
 
 <div class="infobox" markdown>

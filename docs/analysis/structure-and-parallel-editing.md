@@ -1,3 +1,7 @@
+---
+description: "Part II's dual timeline: why every cut between Vito's rise and Michael's fall is an accusation, and why the chronological recuts destroy the film."
+---
+
 # Structure & Parallel Editing
 
 The formal idea that made [*Part II*](../films/the-godfather-part-ii-1974.md), the reason [Coppola](../people/francis-ford-coppola.md) agreed to make it at all, and the thing every chronological recut destroys.

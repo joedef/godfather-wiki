@@ -1,3 +1,7 @@
+---
+description: "Johnny Fontane: Vito's godson, the horse's head, and the Frank Sinatra rumor that has never actually been substantiated."
+---
+
 # Johnny Fontane
 
 <div class="infobox" markdown>

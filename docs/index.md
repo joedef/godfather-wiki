@@ -1,6 +1,7 @@
 ---
 hide:
   - navigation
+description: "An open-source wiki and critical analysis of The Godfather: Mario Puzo's novel, Coppola's film trilogy, the sequel novels, the cast and crew, and the data behind all of it."
 ---
 
 # The Godfather Wiki

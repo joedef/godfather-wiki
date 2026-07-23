@@ -1,3 +1,7 @@
+---
+description: "Gordon Willis's cinematography in The Godfather: top light, underexposure, tableau framing, and why every home video transfer before 2008 destroyed it."
+---
+
 # Cinematography
 
 <p class="epigraph">I'm a minimalist. It's human nature to define complexity as better. Well, it's not.

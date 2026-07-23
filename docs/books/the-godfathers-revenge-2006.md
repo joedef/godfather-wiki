@@ -1,3 +1,7 @@
+---
+description: "The Godfather's Revenge (2006): Winegardner kills Tom Hagen and drives the Corleone story into the Kennedy assassination."
+---
+
 # The Godfather's Revenge (2006)
 
 <div class="infobox" markdown>

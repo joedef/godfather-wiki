@@ -1,3 +1,7 @@
+---
+description: "The Godfather Part II (1974): the first sequel ever to win Best Picture. Both timelines explained, plus the dual-narrative structure that nearly sank it."
+---
+
 # The Godfather Part II (1974)
 
 <div class="infobox" markdown>

@@ -1,3 +1,7 @@
+---
+description: "Robert Evans: the Paramount chief who fought for The Godfather's runtime, against its score and its star, and claimed authorship of all of it."
+---
+
 # Robert Evans
 
 <div class="infobox" markdown>

@@ -1,3 +1,7 @@
+---
+description: "The Godfather baptism sequence analyzed: six minutes, five murders, one unbroken organ line, and why the sound is what makes it work."
+---
+
 # The Baptism Sequence
 
 <p class="epigraph">Do you renounce Satan? — I do renounce him.

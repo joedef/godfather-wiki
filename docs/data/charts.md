@@ -1,3 +1,7 @@
+---
+description: "Godfather data visualized: critical reception, Oscars, budgets, runtimes, and deaths per Don. Pure HTML and CSS, no libraries."
+---
+
 # Charts
 
 Visual breakdowns, built from plain HTML and CSS. No JavaScript, no libraries, no external requests — they work offline and they work in both light and dark themes.

@@ -1,3 +1,7 @@
+---
+description: "The Godfather quotes, sourced and ranked, including the famous ones people misattribute and the line Vito Corleone never actually says."
+---
+
 # Quotes
 
 Sourced, with AFI rankings — and the famous ones people get wrong, flagged.

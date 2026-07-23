@@ -1,3 +1,7 @@
+---
+description: "Original criticism of The Godfather trilogy: fourteen essays on theme, structure, photography, score, editing, religion, and adaptation."
+---
+
 # Analysis
 
 <p class="epigraph">It's not personal, Sonny. It's strictly business.

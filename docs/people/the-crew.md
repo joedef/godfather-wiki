@@ -1,3 +1,7 @@
+---
+description: "The Godfather crew: Dean Tavoularis, Walter Murch, the editors, the costume designers, Fred Roos, and Carmine Coppola."
+---
+
 # The Crew
 
 The department heads and the people whose names are on the awards nobody quotes.
