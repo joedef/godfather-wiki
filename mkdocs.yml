@@ -1,0 +1,210 @@
+site_name: The Godfather Wiki
+site_description: >-
+  An open-source, wiki-style reference and critical analysis of The Godfather —
+  Mario Puzo's novel, Francis Ford Coppola's film trilogy, the sequel novels,
+  the spinoffs, and the people who made them.
+site_url: https://joedef.github.io/godfather-wiki/
+repo_url: https://github.com/joedef/godfather-wiki
+repo_name: joedef/godfather-wiki
+edit_uri: edit/main/docs/
+copyright: >-
+  Content licensed CC BY-SA 4.0 · Code licensed MIT · An independent fan project,
+  not affiliated with or endorsed by Paramount Pictures or the Puzo estate.
+
+theme:
+  name: material
+  language: en
+  icon:
+    logo: material/book-open-page-variant
+    repo: fontawesome/brands/github
+  font:
+    text: Source Sans 3
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Follow system theme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - navigation.footer
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.action.edit
+    - content.code.copy
+    - content.tooltips
+
+extra_css:
+  - assets/extra.css
+
+plugins:
+  - search:
+      separator: '[\s​\-_,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - tags
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/joedef/godfather-wiki
+      name: This project on GitHub
+  generator: false
+
+nav:
+  - Home:
+      - index.md
+      - start-here.md
+      - continuity.md
+  - Films:
+      - films/index.md
+      - The Godfather (1972): films/the-godfather-1972.md
+      - The Godfather Part II (1974): films/the-godfather-part-ii-1974.md
+      - The Godfather Part III (1990): films/the-godfather-part-iii-1990.md
+      - The Godfather Coda (2020): films/the-godfather-coda-2020.md
+      - Recuts & Restorations: films/recuts-and-restorations.md
+      - Deleted & Restored Scenes: films/deleted-scenes.md
+      - The Sicilian (1987): films/the-sicilian-1987.md
+      - The Offer (2022): films/the-offer-2022.md
+      - The Unmade Part IV: films/unmade-part-iv.md
+  - Books:
+      - books/index.md
+      - The Godfather (1969): books/the-godfather-1969.md
+      - The Sicilian (1984): books/the-sicilian-1984.md
+      - The Godfather Returns (2004): books/the-godfather-returns-2004.md
+      - The Godfather's Revenge (2006): books/the-godfathers-revenge-2006.md
+      - The Family Corleone (2012): books/the-family-corleone-2012.md
+      - Coppola's Notebook: books/the-notebook.md
+  - Characters:
+      - characters/index.md
+      - Family Tree: characters/family-tree.md
+      - Vito Corleone: characters/vito-corleone.md
+      - Michael Corleone: characters/michael-corleone.md
+      - Sonny Corleone: characters/sonny-corleone.md
+      - Fredo Corleone: characters/fredo-corleone.md
+      - Tom Hagen: characters/tom-hagen.md
+      - Kay Adams: characters/kay-adams.md
+      - Connie Corleone: characters/connie-corleone.md
+      - Carmela Corleone: characters/carmela-corleone.md
+      - Apollonia Vitelli: characters/apollonia-vitelli.md
+      - Vincent Mancini: characters/vincent-mancini.md
+      - Mary Corleone: characters/mary-corleone.md
+      - Clemenza & Tessio: characters/clemenza-and-tessio.md
+      - Luca Brasi: characters/luca-brasi.md
+      - Sollozzo & McCluskey: characters/sollozzo-and-mccluskey.md
+      - Carlo Rizzi: characters/carlo-rizzi.md
+      - Barzini & the Five Families: characters/barzini-and-the-five-families.md
+      - Moe Greene: characters/moe-greene.md
+      - Johnny Fontane: characters/johnny-fontane.md
+      - Hyman Roth: characters/hyman-roth.md
+      - Frank Pentangeli: characters/frank-pentangeli.md
+      - Zasa, Altobello & Lucchesi: characters/zasa-altobello-lucchesi.md
+      - Minor Characters: characters/minor-characters.md
+  - People:
+      - people/index.md
+      - Francis Ford Coppola: people/francis-ford-coppola.md
+      - Mario Puzo: people/mario-puzo.md
+      - Marlon Brando: people/marlon-brando.md
+      - Al Pacino: people/al-pacino.md
+      - James Caan: people/james-caan.md
+      - Robert Duvall: people/robert-duvall.md
+      - Diane Keaton: people/diane-keaton.md
+      - John Cazale: people/john-cazale.md
+      - Talia Shire: people/talia-shire.md
+      - Robert De Niro: people/robert-de-niro.md
+      - Andy García: people/andy-garcia.md
+      - Supporting Cast: people/supporting-cast.md
+      - Gordon Willis: people/gordon-willis.md
+      - Nino Rota: people/nino-rota.md
+      - The Crew: people/the-crew.md
+      - Robert Evans: people/robert-evans.md
+      - Albert S. Ruddy: people/albert-s-ruddy.md
+  - Media:
+      - media/index.md
+      - Scenes & Trailers: media/scenes.md
+      - Interviews: media/interviews.md
+      - Craft & Video Essays: media/craft.md
+  - Analysis:
+      - analysis/index.md
+      - Themes: analysis/themes.md
+      - Michael's Arc: analysis/michaels-arc.md
+      - Structure & Parallel Editing: analysis/structure-and-parallel-editing.md
+      - The Baptism Sequence: analysis/baptism-sequence.md
+      - Cinematography: analysis/cinematography.md
+      - Music & Score: analysis/music.md
+      - Editing: analysis/editing.md
+      - Production Design & Costume: analysis/production-design-and-costume.md
+      - Catholicism & Ritual: analysis/catholicism-and-ritual.md
+      - The Women: analysis/the-women.md
+      - Sicily & America: analysis/sicily-and-america.md
+      - Doors, Thresholds & Frames: analysis/doors-and-thresholds.md
+      - Book vs. Film: analysis/book-vs-film.md
+      - Part III Reassessed: analysis/part-iii-reassessed.md
+  - Data:
+      - data/index.md
+      - Timeline: data/timeline.md
+      - Awards: data/awards.md
+      - Box Office: data/box-office.md
+      - Body Count: data/body-count.md
+      - Quotes: data/quotes.md
+      - Charts: data/charts.md
+  - Reference:
+      - reference/index.md
+      - Locations: reference/locations.md
+      - Glossary: reference/glossary.md
+      - Real-World Mafia: reference/real-world-mafia.md
+      - Legacy & Influence: reference/legacy-and-influence.md
+      - Video Games: reference/video-games.md
+      - Sources & Further Reading: reference/sources.md
