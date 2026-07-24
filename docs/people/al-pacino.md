@@ -1,5 +1,10 @@
 ---
 description: "Al Pacino: nearly fired three weeks into The Godfather, two nominations for Michael Corleone, and he never won for the role."
+entity:
+  type: Person
+  name: "Al Pacino"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Al_Pacino
 ---
 
 # Al Pacino

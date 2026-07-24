@@ -1,5 +1,10 @@
 ---
 description: "Michael Corleone: the war hero who was going to be a senator. His full arc across three films, and where the man actually stops existing."
+entity:
+  type: Person
+  name: "Michael Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Michael_Corleone
 ---
 
 # Michael Corleone

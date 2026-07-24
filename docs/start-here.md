@@ -1,5 +1,14 @@
 ---
 description: "Which version of The Godfather to watch and in what order, whether to read Puzo's novel, and why the chronological recuts are the wrong place to start."
+faq:
+  - q: "In what order should you watch The Godfather films?"
+    a: "Watch the theatrical cuts in release order: The Godfather (1972), then The Godfather Part II (1974), then Part III (1990) or its 2020 recut Coda. Do not start with a chronological recut like The Godfather Saga — Part II's power comes from cutting Vito's rise against Michael's fall, and straightening the timeline destroys it."
+  - q: "Should you watch Part III or the Coda recut?"
+    a: "If you've never seen either, watch Coda (2020). Coppola's re-edit moves the Vatican-conspiracy setup to the front, trims the film, and changes the ending; it is a better-shaped film and his preferred version."
+  - q: "Should you read the novel before watching the films?"
+    a: "Watch the films first. Mario Puzo's 1969 novel is a fast, entertaining read, but the film improves its material so consistently that reading first is a letdown. Read it after, for Vito's backstory and the subplots Coppola cut."
+  - q: "Why does The Godfather look so dark?"
+    a: "Cinematographer Gordon Willis deliberately underexposed the film and lit faces from above, leaving Vito's eyes in shadow so you can't read him. Paramount's lab thought the footage was a mistake; it wasn't. Home-video transfers before the 2008 restoration brightened it and misrepresented the photography."
 ---
 
 # Start Here

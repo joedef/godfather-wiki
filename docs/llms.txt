@@ -1,0 +1,34 @@
+# The Godfather Wiki
+
+> An open-source reference and critical analysis of The Godfather — Mario Puzo's 1969 novel, Francis Ford Coppola's film trilogy, the sequel and prequel novels, the screen spinoffs, the video games, and the people who made all of it.
+
+All content is licensed CC BY-SA 4.0 and free to cite. This file is a curated map for language models and answer engines — see https://llmstxt.org. Independent fan project; not affiliated with or endorsed by Paramount Pictures or the Puzo estate.
+
+## Start here
+- [Start Here](https://joedef.github.io/godfather-wiki/start-here/): which version to watch, whether to read the novel, where to begin
+- [Continuity](https://joedef.github.io/godfather-wiki/continuity/): the novel, four film cuts, recuts, and continuation novels, and how they conflict
+
+## The films
+- [Films overview](https://joedef.github.io/godfather-wiki/films/)
+- [The Godfather (1972)](https://joedef.github.io/godfather-wiki/films/the-godfather-1972/): full production history, cast, plot, reception
+- [Part II (1974)](https://joedef.github.io/godfather-wiki/films/the-godfather-part-ii-1974/), [Part III (1990)](https://joedef.github.io/godfather-wiki/films/the-godfather-part-iii-1990/), [Coda (2020)](https://joedef.github.io/godfather-wiki/films/the-godfather-coda-2020/)
+
+## The books
+- [Books overview](https://joedef.github.io/godfather-wiki/books/): Puzo's novel, The Sicilian, the Winegardner and Falco continuations, and the Notebook
+
+## Characters
+- [Characters index](https://joedef.github.io/godfather-wiki/characters/) and [family tree](https://joedef.github.io/godfather-wiki/characters/family-tree/)
+- [Vito Corleone](https://joedef.github.io/godfather-wiki/characters/vito-corleone/), [Michael Corleone](https://joedef.github.io/godfather-wiki/characters/michael-corleone/), [Sonny](https://joedef.github.io/godfather-wiki/characters/sonny-corleone/), [Fredo](https://joedef.github.io/godfather-wiki/characters/fredo-corleone/), [Tom Hagen](https://joedef.github.io/godfather-wiki/characters/tom-hagen/), [Kay](https://joedef.github.io/godfather-wiki/characters/kay-adams/)
+
+## People
+- [People index](https://joedef.github.io/godfather-wiki/people/): cast and crew, and the Oscar ledger
+- [Francis Ford Coppola](https://joedef.github.io/godfather-wiki/people/francis-ford-coppola/), [Mario Puzo](https://joedef.github.io/godfather-wiki/people/mario-puzo/), [Marlon Brando](https://joedef.github.io/godfather-wiki/people/marlon-brando/), [Al Pacino](https://joedef.github.io/godfather-wiki/people/al-pacino/)
+
+## Analysis
+- [Analysis index](https://joedef.github.io/godfather-wiki/analysis/): original critical essays
+- [Themes](https://joedef.github.io/godfather-wiki/analysis/themes/), [Michael's Arc](https://joedef.github.io/godfather-wiki/analysis/michaels-arc/), [The Baptism Sequence](https://joedef.github.io/godfather-wiki/analysis/baptism-sequence/), [Cinematography](https://joedef.github.io/godfather-wiki/analysis/cinematography/)
+
+## Data & reference
+- [Timeline](https://joedef.github.io/godfather-wiki/data/timeline/), [Awards](https://joedef.github.io/godfather-wiki/data/awards/), [Box Office](https://joedef.github.io/godfather-wiki/data/box-office/), [Quotes](https://joedef.github.io/godfather-wiki/data/quotes/)
+- [Real-World Mafia](https://joedef.github.io/godfather-wiki/reference/real-world-mafia/): the documented basis, marked documented vs. inferred vs. disputed
+- [Sources](https://joedef.github.io/godfather-wiki/reference/sources/)

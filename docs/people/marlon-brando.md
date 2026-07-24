@@ -1,5 +1,10 @@
 ---
 description: "Marlon Brando: banned from the Paramount lot in 1970, the screen test that got him Vito Corleone, and the Oscar he refused."
+entity:
+  type: Person
+  name: "Marlon Brando"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Marlon_Brando
 ---
 
 # Marlon Brando

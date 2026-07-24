@@ -1,5 +1,10 @@
 ---
 description: "Francis Ford Coppola: hired at 31 because he was cheap, five Academy Awards, and a sixty-year pattern of betting everything and losing it."
+entity:
+  type: Person
+  name: "Francis Ford Coppola"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Francis_Ford_Coppola
 ---
 
 # Francis Ford Coppola
