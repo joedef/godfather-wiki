@@ -1,5 +1,11 @@
 ---
 description: "James Caan: took Sonny over Michael, improvised half the performance, and spent fifty years explaining that he isn't Italian."
+entity:
+  type: Person
+  name: "James Caan"
+  sameAs:
+    - https://en.wikipedia.org/wiki/James_Caan
+    - https://www.wikidata.org/wiki/Q95043
 ---
 
 # James Caan

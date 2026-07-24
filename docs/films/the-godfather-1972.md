@@ -1,5 +1,11 @@
 ---
 description: "The Godfather (1972): full cast and crew, plot breakdown, and the production war behind it, from Brando's screen test to the mob negotiation that changed the script."
+entity:
+  type: Movie
+  name: "The Godfather"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather
+    - https://www.wikidata.org/wiki/Q47703
 ---
 
 # The Godfather (1972)

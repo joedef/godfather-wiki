@@ -1,5 +1,11 @@
 ---
 description: "Mark Winegardner's The Godfather Returns (2004): the estate-authorized interquel covering 1955 to 1962, and the continuity problems it creates."
+entity:
+  type: Book
+  name: "The Godfather Returns"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather_Returns
+    - https://www.wikidata.org/wiki/Q1196164
 ---
 
 # The Godfather Returns (2004)

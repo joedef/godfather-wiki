@@ -1,5 +1,11 @@
 ---
 description: "Mary Corleone: the price made explicit, the silent scream, and the disproportionate treatment of Sofia Coppola's performance."
+entity:
+  type: Person
+  name: "Mary Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Mary_Corleone
+    - https://www.wikidata.org/wiki/Q2537035
 ---
 
 # Mary Corleone

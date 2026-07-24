@@ -1,5 +1,11 @@
 ---
 description: "Hyman Roth: Part II's antagonist, the only person who out-thinks Michael Corleone, and a close portrait of Meyer Lansky."
+entity:
+  type: Person
+  name: "Hyman Roth"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Hyman_Roth
+    - https://www.wikidata.org/wiki/Q2278431
 ---
 
 # Hyman Roth

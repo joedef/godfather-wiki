@@ -1,5 +1,11 @@
 ---
 description: "Talia Shire: Coppola's sister, accused of nepotism, then nominated for Oscars two years running for Connie Corleone and Rocky."
+entity:
+  type: Person
+  name: "Talia Shire"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Talia_Shire
+    - https://www.wikidata.org/wiki/Q108622
 ---
 
 # Talia Shire

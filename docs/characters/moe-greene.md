@@ -1,5 +1,11 @@
 ---
 description: "Moe Greene: the man who built Las Vegas, shot through the eye, and modeled directly on Bugsy Siegel."
+entity:
+  type: Person
+  name: "Moe Greene"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Moe_Greene
+    - https://www.wikidata.org/wiki/Q2284305
 ---
 
 # Moe Greene

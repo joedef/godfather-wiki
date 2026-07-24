@@ -1,5 +1,11 @@
 ---
 description: "Fredo Corleone: the passed-over middle son, John Cazale's performance, and the kiss in Havana that is both a death sentence and real grief."
+entity:
+  type: Person
+  name: "Fredo Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Fredo_Corleone
+    - https://www.wikidata.org/wiki/Q931582
 ---
 
 # Frederico "Fredo" Corleone

@@ -1,5 +1,11 @@
 ---
 description: "Gordon Willis, the Prince of Darkness: top light, deliberate underexposure, and six films in seven years that drew 39 Oscar nominations and none for him."
+entity:
+  type: Person
+  name: "Gordon Willis"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Gordon_Willis
+    - https://www.wikidata.org/wiki/Q560108
 ---
 
 # Gordon Willis

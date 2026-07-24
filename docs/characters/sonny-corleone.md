@@ -1,5 +1,11 @@
 ---
 description: "Sonny Corleone: the most capable Corleone and the least suited to running the family, and the tollbooth sequence that killed him."
+entity:
+  type: Person
+  name: "Sonny Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Sonny_Corleone
+    - https://www.wikidata.org/wiki/Q575889
 ---
 
 # Santino "Sonny" Corleone

@@ -1,5 +1,11 @@
 ---
 description: "Michael Cimino's The Sicilian (1987): the Godfather sequel adaptation that had to remove Michael Corleone entirely for rights reasons."
+entity:
+  type: Movie
+  name: "The Sicilian (film)"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Sicilian_(film)
+    - https://www.wikidata.org/wiki/Q1196895
 ---
 
 # The Sicilian (1987)

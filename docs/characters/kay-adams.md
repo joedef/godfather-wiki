@@ -1,5 +1,11 @@
 ---
 description: "Kay Adams-Corleone: the audience's proxy, the three doors closed on her, and the abortion that is the only successful act of resistance against Michael."
+entity:
+  type: Person
+  name: "Kay Adams Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Kay_Adams_Corleone
+    - https://www.wikidata.org/wiki/Q2471541
 ---
 
 # Kay Adams-Corleone

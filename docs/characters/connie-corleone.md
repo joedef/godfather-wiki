@@ -1,5 +1,11 @@
 ---
 description: "Connie Corleone: the largest character arc in the trilogy after Michael's, from battered bride to the family's poisoner."
+entity:
+  type: Person
+  name: "Connie Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Connie_Corleone
+    - https://www.wikidata.org/wiki/Q2338698
 ---
 
 # Constanzia "Connie" Corleone

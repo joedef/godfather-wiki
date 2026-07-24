@@ -1,5 +1,11 @@
 ---
 description: "The Godfather's Revenge (2006): Winegardner kills Tom Hagen and drives the Corleone story into the Kennedy assassination."
+entity:
+  type: Book
+  name: "The Godfather's Revenge"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather's_Revenge
+    - https://www.wikidata.org/wiki/Q1625481
 ---
 
 # The Godfather's Revenge (2006)

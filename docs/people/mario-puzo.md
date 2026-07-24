@@ -1,5 +1,11 @@
 ---
 description: "Mario Puzo: wrote The Godfather to clear gambling debts having never met a gangster, then won two Oscars for the screenplays."
+entity:
+  type: Person
+  name: "Mario Puzo"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Mario_Puzo
+    - https://www.wikidata.org/wiki/Q182870
 ---
 
 # Mario Puzo

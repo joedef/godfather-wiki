@@ -1,5 +1,11 @@
 ---
 description: "Albert S. Ruddy: the producer who negotiated directly with Joe Colombo, won Best Picture, and won it again 32 years later."
+entity:
+  type: Person
+  name: "Albert S. Ruddy"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Albert_S._Ruddy
+    - https://www.wikidata.org/wiki/Q280490
 ---
 
 # Albert S. Ruddy

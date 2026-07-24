@@ -1,5 +1,11 @@
 ---
 description: "Carmela Corleone: Vito's wife, who says almost nothing across two films and whose lifespan Michael treats as a scheduling constraint."
+entity:
+  type: Person
+  name: "Carmela Corleone"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Carmela_Corleone
+    - https://www.wikidata.org/wiki/Q2609353
 ---
 
 # Carmela Corleone

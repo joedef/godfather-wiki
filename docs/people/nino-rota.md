@@ -1,5 +1,11 @@
 ---
 description: "Nino Rota: Fellini's composer, the solo trumpet theme, the Academy nomination that was rescinded, and the Oscar he won for Part II."
+entity:
+  type: Person
+  name: "Nino Rota"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Nino_Rota
+    - https://www.wikidata.org/wiki/Q214665
 ---
 
 # Nino Rota

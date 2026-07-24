@@ -1,5 +1,11 @@
 ---
 description: "Andy Garcia: Vincent Mancini, and the only acting Oscar nomination The Godfather Part III received."
+entity:
+  type: Person
+  name: "Andy Garcia"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Andy_Garcia
+    - https://www.wikidata.org/wiki/Q189415
 ---
 
 # Andy García

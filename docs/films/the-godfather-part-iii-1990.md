@@ -1,5 +1,11 @@
 ---
 description: "The Godfather Part III (1990): plot, cast, the Duvall salary dispute that wrote Tom Hagen out, the Sofia Coppola casting, and the real Vatican Bank scandal underneath."
+entity:
+  type: Movie
+  name: "The Godfather Part III"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather_Part_III
+    - https://www.wikidata.org/wiki/Q202326
 ---
 
 # The Godfather Part III (1990)

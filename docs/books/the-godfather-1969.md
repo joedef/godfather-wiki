@@ -1,5 +1,11 @@
 ---
 description: "Mario Puzo's The Godfather (1969): how a writer who had never met a gangster wrote it to clear gambling debts, and what Coppola cut from it."
+entity:
+  type: Book
+  name: "The Godfather (novel)"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather_(novel)
+    - https://www.wikidata.org/wiki/Q243556
 ---
 
 # The Godfather (1969)

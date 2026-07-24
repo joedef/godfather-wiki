@@ -1,5 +1,11 @@
 ---
 description: "Diane Keaton: cast as Kay Adams for her strangeness, won Best Actress five years later for Annie Hall, died October 2025."
+entity:
+  type: Person
+  name: "Diane Keaton"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Diane_Keaton
+    - https://www.wikidata.org/wiki/Q102642
 ---
 
 # Diane Keaton

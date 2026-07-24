@@ -1,5 +1,11 @@
 ---
 description: "The Godfather Coda (2020): exactly what Coppola changed in his re-edit of Part III, and why the same footage scored nineteen points higher."
+entity:
+  type: Movie
+  name: "The Godfather Part III"
+  sameAs:
+    - https://en.wikipedia.org/wiki/The_Godfather_Part_III
+    - https://www.wikidata.org/wiki/Q202326
 ---
 
 # The Godfather Coda: The Death of Michael Corleone (2020)

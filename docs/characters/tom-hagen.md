@@ -1,5 +1,11 @@
 ---
 description: "Tom Hagen: the German-Irish orphan raised as a Corleone, made consigliere, and never once considered for the succession."
+entity:
+  type: Person
+  name: "Tom Hagen"
+  sameAs:
+    - https://en.wikipedia.org/wiki/Tom_Hagen
+    - https://www.wikidata.org/wiki/Q798823
 ---
 
 # Tom Hagen
