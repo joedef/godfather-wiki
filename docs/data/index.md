@@ -18,7 +18,7 @@ Compiled from the films themselves and cross-checked against public records. Whe
 
     ---
 
-    30 Academy nominations, 9 wins, one declined and one rescinded. Plus BAFTAs, Globes, guilds, and the Razzies.
+    28 Academy nominations, 9 wins, one declined and one rescinded. Plus BAFTAs, Globes, guilds, and the Razzies.
 
 -   :material-cash: **[Box Office](box-office.md)**
 
@@ -56,7 +56,7 @@ Compiled from the films themselves and cross-checked against public records. Whe
 | **Academy Award wins** | **9** *(3 + 6 + 0)* |
 | **Best Picture wins** | 2 — the only original/sequel pair ever to do it |
 | **Actors who won for playing Vito Corleone** | 2 — [Brando](../people/marlon-brando.md) and [De Niro](../people/robert-de-niro.md); no other character has done this |
-| **Combined runtime, theatrical trilogy** | 539 min — **8 hours 59 minutes** |
+| **Combined runtime, theatrical trilogy** | ~539–542 min — **about nine hours** |
 | **Combined runtime with *Trilogy 1901–1980*** | 583 min — 9 h 43 m |
 | **Story years covered** | 1901–1997 |
 | **On-screen deaths, trilogy** | ~35 named *(see [Body Count](body-count.md))* |

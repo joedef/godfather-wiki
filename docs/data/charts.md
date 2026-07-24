@@ -135,7 +135,7 @@ Rotten Tomatoes approval. The gap between *Part III* and *Coda* — nineteen poi
 <div class="chart-row">
 <div class="chart-label">Part III</div>
 <div class="chart-track"><div class="chart-bar" style="width:47%"></div></div>
-<div class="chart-value">$136.8M</div>
+<div class="chart-value">$136.9M</div>
 </div>
 
 <div class="chart-row">
@@ -182,7 +182,7 @@ Worldwide gross across all releases. *The Godfather* figure is the midpoint of a
 <div class="chart-row">
 <div class="chart-label">Part II</div>
 <div class="chart-track"><div class="chart-bar" style="width:100%"></div></div>
-<div class="chart-value">202 min</div>
+<div class="chart-value">202–205 min</div>
 </div>
 
 <div class="chart-row">
@@ -203,7 +203,7 @@ Worldwide gross across all releases. *The Godfather* figure is the midpoint of a
 <div class="chart-value">158 min</div>
 </div>
 
-<p class="chart-caption">US theatrical runtimes. The full theatrical trilogy is <strong>8 hours 59 minutes</strong>; <em>The Godfather Trilogy: 1901–1980</em> runs 583 minutes.</p>
+<p class="chart-caption">US theatrical runtimes. The full theatrical trilogy runs <strong>about nine hours</strong>; <em>The Godfather Trilogy: 1901–1980</em> runs 583 minutes.</p>
 
 </div>
 

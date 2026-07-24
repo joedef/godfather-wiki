@@ -30,7 +30,7 @@ The contemporary reception was **mixed, not hostile**:
 - **Leonard Maltin: 3 / 4** — masterfully told, with an almost-fatal flaw.
 - **Vincent Canby**, who had panned *Part II* in 1974, was warm about this one.
 - **Seven Academy Award nominations**, including Best Picture and Best Director.
-- **$136.8 million worldwide** on a $54 million budget, with a Christmas Day record that stood for seven years until *Titanic*.
+- **$136.9 million worldwide** on a $54 million budget, with a Christmas Day record that stood for seven years until *Titanic*.
 
 A film that everyone remembers as a flop was a solid commercial performer with a Best Picture nomination and a top-ten placement from one of America's two most-read critics.
 

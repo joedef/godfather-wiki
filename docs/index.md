@@ -60,8 +60,8 @@ If you want the short version of why any of this is worth a wiki: *The Godfather
 | Film | Released | Runtime | Budget | Worldwide gross | Oscars |
 | --- | --- | ---: | ---: | ---: | ---: |
 | [**The Godfather**](films/the-godfather-1972.md) | March 24, 1972 | 175 min | ~$6–7M | ~$250–291M | **3** of 10 |
-| [**Part II**](films/the-godfather-part-ii-1974.md) | December 20, 1974 | 202 min | ~$13M | ~$93M | **6** of 11 |
-| [**Part III**](films/the-godfather-part-iii-1990.md) | December 25, 1990 | 162 min | ~$54M | ~$136.8M | 0 of 7 |
+| [**Part II**](films/the-godfather-part-ii-1974.md) | December 20, 1974 | 202–205 min | ~$13M | ~$93M | **6** of 11 |
+| [**Part III**](films/the-godfather-part-iii-1990.md) | December 25, 1990 | 162 min | ~$54M | ~$136.9M | 0 of 7 |
 | [**Coda**](films/the-godfather-coda-2020.md) | December 4, 2020 | 158 min | recut | ~$0.17M | — |
 
 *Part II* is the first sequel ever to win Best Picture, and one of only two in the Academy's history. *Part I* and *Part II* are the only original-and-sequel pair to both win. All three films were nominated — a feat matched only by *The Lord of the Rings*.
@@ -102,7 +102,7 @@ Puzo wrote a potboiler to pay off gambling debts and accidentally wrote the defi
 
 Built from the films and cross-checked against public records:
 
-- [Complete awards tables](data/awards.md) — 30 Academy nominations across three films
+- [Complete awards tables](data/awards.md) — 28 Academy nominations across three films
 - [Box office](data/box-office.md) — original run, reissues, and inflation-adjusted comparison
 - [Body count](data/body-count.md) — who dies, who orders it, and who does it
 - [Quote index](data/quotes.md) — sourced, with the ones people misquote flagged

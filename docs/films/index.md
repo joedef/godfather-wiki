@@ -16,10 +16,10 @@ Four features carrying the Corleone story, made across forty-eight years by the 
 | | [**The Godfather**](the-godfather-1972.md) | [**Part II**](the-godfather-part-ii-1974.md) | [**Part III**](the-godfather-part-iii-1990.md) |
 | --- | --- | --- | --- |
 | **US release** | March 24, 1972 | December 20, 1974 | December 25, 1990 |
-| **Runtime** | 175 min | 202 min | 162 min |
+| **Runtime** | 175 min | 202–205 min | 162 min |
 | **Story years** | 1945–1955 | 1901–1925 / 1958–1959 | 1979–1980 |
 | **Budget** | ~$6–7M | ~$13M | ~$54M |
-| **Worldwide** | ~$250–291M | ~$93M | ~$136.8M |
+| **Worldwide** | ~$250–291M | ~$93M | ~$136.9M |
 | **Oscar noms** | 10 | 11 | 7 |
 | **Oscar wins** | 3 | 6 | 0 |
 | **Director** | Coppola | Coppola | Coppola |

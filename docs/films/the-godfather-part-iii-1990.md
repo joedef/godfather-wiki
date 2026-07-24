@@ -44,7 +44,8 @@ Budget
 :   ~$54 million
 
 Box office
-:   $66.7M domestic / $70.1M intl / **$136.8M worldwide**
+:   **$136.9M worldwide**
+    *(domestic $66.7M · international $70.1M; components rounded)*
 
 Academy Awards
 :   0 wins from 7 nominations
@@ -189,7 +190,7 @@ Seven Academy nominations, zero wins — Best Picture, Director, Supporting Acto
 
 ### Box office
 
-It opened to $19.6 million on 1,901 screens, second behind *Home Alone*, and took **$6 million on Christmas Day** — then a single-day record, held for seven years until *Titanic*. Final worldwide: **$136.8 million** against $54 million. A solid commercial performer that everyone remembers as a flop, because it was measured against *The Godfather*.
+It opened to $19.6 million on 1,901 screens, second behind *Home Alone*, and took **$6 million on Christmas Day** — then a single-day record, held for seven years until *Titanic*. Final worldwide: **$136.9 million** against $54 million. A solid commercial performer that everyone remembers as a flop, because it was measured against *The Godfather*.
 
 ### 2020 and after
 

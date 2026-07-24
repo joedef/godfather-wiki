@@ -29,7 +29,7 @@ The commonly cited figure — **$250–291 million worldwide** — is a reconstr
 | --- | ---: | ---: | ---: | ---: |
 | **The Godfather** (1972) | ~$6–7M | ~$134–137M | ~$110–150M | **~$250–291M** |
 | **Part II** (1974) | ~$13M | ~$47.5M | ~$45M | **~$93M** |
-| **Part III** (1990) | ~$54M | $66.7M | $70.1M | **$136.8M** |
+| **Part III** (1990) | ~$54M | $66.7M | $70.1M | **$136.9M** |
 | **Coda** (2020) | *recut* | ~$95K | ~$71K | **~$166K** |
 
 *Part III* and *Coda* figures are reliable — modern reporting. The first two are best estimates.

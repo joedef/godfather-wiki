@@ -41,7 +41,8 @@ Wide release
 :   December 20, 1974
 
 Runtime
-:   202 min *(sources cite 200–205)*
+:   202 min
+    *(sources vary: 200–205; Wikipedia cites 205)*
 
 Budget
 :   ~$13 million
